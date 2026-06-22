@@ -43,7 +43,6 @@ A forma como você compra as instâncias impacta diretamente no custo do seu pro
 
 * **Integrado:** Amazon EC2 pode ser integrado com a maior parte dos serviços AWS. **Amazon Simple Storage Services** (Amazon S3), **Amazon Relational Database Service** (Amazon RDS), **Amazon Virtual Private Clound** (Amazon VPC).
 
-![Arquitetura de Estrutura EC2](<img width="1359" height="808" alt="image" src="https://github.com/user-attachments/assets/8e7e3b33-a8ad-4969-b066-16405b604c0a" />
-)
+![Arquitetura de Estrutura EC2](<img width="1310" height="813" alt="amazone2c" src="https://github.com/user-attachments/assets/c0e5fcf3-02ce-404b-8235-f58eda7f5075" />)
 
 
